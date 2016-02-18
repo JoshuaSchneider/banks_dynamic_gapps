@@ -1,6 +1,8 @@
 #BaNkS Dynamic GApps Ver 2.0#
 #Kanged by JoSh#
 
+#1EARNING HOW TO USE GIT HUB THIS IS FOR FUN#
+
 **HOW TO USE:**
 
 * Get into the base of this repo
@@ -17,6 +19,7 @@
 
 **CREDITS:**
 
+* Banks
 * Google
 * CyanogenMod
 * TKruzze
