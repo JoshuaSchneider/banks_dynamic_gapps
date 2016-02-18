@@ -1,5 +1,5 @@
-#BaNkS Dynamic GApps#
-#by BaNkS#
+#BaNkS Dynamic GApps Ver 2.0#
+#Kanged by JoSh#
 
 **HOW TO USE:**
 
